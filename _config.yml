@@ -1,1 +1,8 @@
+title: Jordan Katz
+description: Market Making + Market Microstructure + Python
+show_downloads: true
+google_analytics:
+markdown: kramdown
 theme: jekyll-theme-minimal
+about: /aboutme.md
+rmdescription: A Resource for Introductory Market Making and Market Microstructure Theory
