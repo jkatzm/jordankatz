@@ -1,3 +1,3 @@
-# jordankatz
+# Jordan Katz
 
 # test test
